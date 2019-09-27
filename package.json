@@ -1,0 +1,16 @@
+{
+  "name": "bz-lower-case",
+  "version": "1.0.0",
+  "description": "a function is used '[a-z]' to '[A-Z]'",
+  "main": "dist/lower-case.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "function",
+    "lowercase"
+  ],
+  "author": "bingzhong",
+  "license": "ISC"
+}
